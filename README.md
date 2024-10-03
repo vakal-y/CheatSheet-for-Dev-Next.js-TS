@@ -1,4 +1,4 @@
-CheetSheet for DevOps is a dynamic board for organizing and sharing cheat sheets. Users can create their own topics, add cheat sheets from others to their collection, and create new cheat sheets, making it an essential tool for efficiently managing DevOps knowledge.
+This is a Next.js application built using TypeScript, designed to provide a platform where users can create, browse, and manage cheat sheets on DevOps topics, leveraging the power of server-side rendering for faster performance.
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
